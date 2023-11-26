@@ -33,8 +33,10 @@ a {
 
 .F {
     color: white;
+    margin: auto;
+    padding: 20px;
 }
 
-.steps{
+.procedure {
     color: white;
 }
