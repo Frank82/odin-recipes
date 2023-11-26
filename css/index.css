@@ -1,5 +1,6 @@
 body {
     margin: auto;
+    background-color: rgba(0, 0, 0, 0.705);
     background-size: cover;
     font-family: 'Amita', serif;
 }
@@ -29,16 +30,13 @@ a {
     height: 400px;
     width: 400px;
 }
- .F h2 {
-    font-family: 'Amita', serif;
-}
 
 .F {
+    background-color: grey;
     width: 50%;
     margin: auto;
-    padding: 20px;
-    display: flex;
-    justify-content: center;
+    display: block;
     border: 1px solid black;
+    text-align: center;
 }
 
