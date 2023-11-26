@@ -1,6 +1,7 @@
 body {
     margin: auto;
     background-size: cover;
+    font-family: 'Amita', serif;
 }
 
 .heading {
@@ -8,14 +9,13 @@ body {
     color:#d01f48e5;
     font-size: 30px;
     text-shadow: 2px 1px  #c9e8f1;
-    font-family: 'Amita', serif;
 }
 
 ul {
     list-style-type: none;
 }
 
-li {
+.recipes li {
     text-align: center;
 }
 
@@ -23,19 +23,22 @@ a {
     text-decoration: none;
     color: #c9e8f1;
     font-size: 30px;
-    font-family: 'Amita', serif;
-}
-
-.F {
-    margin: auto;
-    padding: 20px;
-    /* display: flex; */
-   
-    
 }
 
 .F img {
     height: 400px;
     width: 400px;
+}
+ .F h2 {
+    font-family: 'Amita', serif;
+}
+
+.F {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
 }
 
