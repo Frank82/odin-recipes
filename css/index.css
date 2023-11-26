@@ -39,7 +39,11 @@ a {
     border: 1px solid black;
     text-align: center;
 }
-las steps{
+
+las{
     text-align:center;
 }
-
+steps{
+    text-align:center;
+    color: brown;
+}
