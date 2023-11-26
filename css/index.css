@@ -32,11 +32,9 @@ a {
 }
 
 .F {
-    background-color: grey;
-    width: 50%;
-    margin: auto;
-    display: block;
-    border: 1px solid black;
-    text-align: center;
+    color: white;
 }
 
+.steps{
+    color: white;
+}
